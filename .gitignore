@@ -1,0 +1,15 @@
+.dart_tool/
+.packages
+build/
+.idea/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+.gradle/
+android/.gradle/
+**/GeneratedPluginRegistrant.*
+/ios/Pods/
+/ios/.symlinks/
+/macos/Flutter/ephemeral/
